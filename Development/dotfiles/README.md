@@ -1,3 +1,0 @@
-# rmn's dotfiles
-
-WIP
