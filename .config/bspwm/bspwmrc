@@ -7,6 +7,7 @@ powerkit &
 blueman-applet &
 lxsession &
 picom --experimental-backends -b --animations --animation-for-open-window zoom &
+xrdb ~/.Xresources &
 sleep 1 &
 ~/.config/polybar/launch.sh &
 
