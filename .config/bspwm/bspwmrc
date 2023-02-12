@@ -8,7 +8,7 @@ blueman-applet &
 lxsession &
 picom --experimental-backends -b --animations --animation-for-open-window zoom &
 sleep 1 &
-~/.config/polybar/launch.sh
+~/.config/polybar/launch.sh &
 
 bspc monitor -d     
 
