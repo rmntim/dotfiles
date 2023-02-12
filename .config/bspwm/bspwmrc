@@ -10,6 +10,8 @@ picom --experimental-backends -b --animations --animation-for-open-window zoom &
 sleep 1 &
 ~/.config/polybar/launch.sh &
 
+xsetroot -cursor_name left_ptr
+
 bspc monitor -d     
 
 bspc config border_width 2
