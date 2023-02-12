@@ -4,12 +4,12 @@
 
 |Distro|[arch](https://archlinux.org)|
 |:---:|:---:|
-|WM|[bspwm]()|
-|Bar|[polybar]()|
-|Terminal|[wezrerm]()|
-|Editor|[lunarvim]()|
-|Shell|[fish]()|
-|Theme|[rose-pine]()|
-|Cursors|[capitaine]()|
-|Icons|[papirus]()|
-|Fonts|[meslo lgs]()|
+|WM|[bspwm](https://github.com/baskerville/bspwm)|
+|Bar|[polybar](https://github.com/polybar/polybar)|
+|Terminal|[wezrerm](https://wezfurlong.org/wezterm/)|
+|Editor|[lunarvim](https://www.lunarvim.org/)|
+|Shell|[fish](https://fishshell.com/)|
+|Theme|[rose-pine](https://rosepinetheme.com/)|
+|Cursors|[capitaine](https://github.com/keeferrourke/capitaine-cursors)|
+|Icons|[papirus](https://github.com/keeferrourke/capitaine-cursors)|
+|Fonts|[meslo lgs](https://github.com/kalaschnik/meslolgs-nf-template)|
