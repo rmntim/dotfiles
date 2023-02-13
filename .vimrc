@@ -1,14 +1,4 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Maintainer:
-"       Amir Salihefendic - @amix3k
-"
-" Awesome_version:
-"       Get this config, nice color schemes and lots of plugins!
-"
-"       Install the awesome version from:
-"
-"           https://github.com/amix/vimrc
-"
 " Sections:
 "    -> General
 "    -> VIM user interface
@@ -126,7 +116,7 @@ endif
 
 " Add a bit extra margin to the left
 set foldcolumn=0
-set number
+set number relativenumber
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -144,7 +134,7 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme default
+    colorscheme rose-pine
 catch
 endtry
 
