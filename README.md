@@ -7,7 +7,7 @@
 | WM       | [bspwm](https://github.com/baskerville/bspwm)                   |
 | Bar      | [polybar](https://github.com/polybar/polybar)                   |
 | Terminal | [wezrerm](https://wezfurlong.org/wezterm/)                      |
-| Editor   | [lunarvim](https://www.lunarvim.org/)                           |
+| Editor   | [vscodium](https://vscodium.com/)                           |
 | Shell    | [fish](https://fishshell.com/)                                  |
 | Theme    | [rose-pine](https://rosepinetheme.com/)                         |
 | Cursors  | [capitaine](https://github.com/keeferrourke/capitaine-cursors)  |
