@@ -8,7 +8,7 @@ alias find fd
 alias cat bat
 
 ## EDITOR ALIASES
-alias lv lvim
+alias v vim
 alias nv nvim
 
 ## GIT ALIASES

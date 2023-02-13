@@ -7,7 +7,7 @@
 | WM       | [bspwm](https://github.com/baskerville/bspwm)                   |
 | Bar      | [polybar](https://github.com/polybar/polybar)                   |
 | Terminal | [wezrerm](https://wezfurlong.org/wezterm/)                      |
-| Editor   | [vscodium](https://vscodium.com/)                           |
+| Editor   | [vscodium](https://vscodium.com/)                               |
 | Shell    | [fish](https://fishshell.com/)                                  |
 | Theme    | [rose-pine](https://rosepinetheme.com/)                         |
 | Cursors  | [capitaine](https://github.com/keeferrourke/capitaine-cursors)  |
@@ -17,11 +17,10 @@
 ## software needed
 
 ```shell
-rustup git polkit networkmanager pulseaudio alsa-utils pulseaudio-alsa pulseaudio-blutooth
-paru
-fish starship ranger
-fd ripgrep exa bat pfetch
-n neovim
+git polkit networkmanager pulseaudio pulseaudio-blutooth bluez bluez-utils
+rustup paru
+fish starship ranger vim
+fd ripgrep exa bat pfetch n
 bspwm sxhkd picom-pijulius-git polybar rofi wezterm nitrogen dunst
-powerkit blueman lxsession pavucontrol lxappearance pcmanfm telegram-desktop
+powerkit blueman lxsession pavucontrol lxappearance pcmanfm telegram-desktop firefox
 ```
