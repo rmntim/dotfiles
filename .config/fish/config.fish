@@ -9,7 +9,6 @@ alias cat bat
 
 ## EDITOR ALIASES
 alias v vim
-alias nv nvim
 
 ## GIT ALIASES
 alias ga "git add -u"
