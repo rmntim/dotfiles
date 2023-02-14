@@ -3,6 +3,7 @@ local colors = require('lua/rose-pine').colors()
 local window_frame = require('lua/rose-pine').window_frame()
 
 return {
+    enable_tab_bar = false,
 	colors = colors,
 	window_frame = window_frame,
 	font = wezterm.font("MesloLGS NF"),
