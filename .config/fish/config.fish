@@ -16,6 +16,9 @@ alias gc "git commit"
 alias gp "git push origin main"
 alias config "git --git-dir=$HOME/Development/dotfiles/ --work-tree=$HOME"
 
+# MISC ALIASES
+alias ip "ip -c"
+
 ## ENV VARIABLES
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
 set -x N_PREFIX "$HOME/n"; contains "$N_PREFIX/bin" $PATH; or set -a PATH "$N_PREFIX/bin"  # Added by n-install (see http://git.io/n-install-repo).
