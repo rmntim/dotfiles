@@ -17,7 +17,8 @@
 ## software needed
 
 ```shell
-git polkit networkmanager pulseaudio pulseaudio-blutooth bluez bluez-utils
+git polkit networkmanager xdg-desktop-portal
+pipewire wireplumber pipewire-audio pipewire-alsa pipewire-pulse
 rustup paru
 fish starship ranger vim
 fd ripgrep exa bat pfetch n
