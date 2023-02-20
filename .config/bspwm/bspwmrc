@@ -5,7 +5,7 @@ nitrogen --restore &
 dunst &
 powerkit &
 lxsession &
-# picom --experimental-backends -b --animations --animation-for-open-window zoom &
+picom &
 xrdb ~/.Xresources &
 sleep 1 &
 ~/.config/polybar/launch.sh &

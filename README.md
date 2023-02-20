@@ -22,6 +22,6 @@ pipewire wireplumber pipewire-audio pipewire-alsa pipewire-pulse
 rustup paru
 fish starship ranger vim
 fd ripgrep exa bat pfetch n
-bspwm sxhkd picom-pijulius-git polybar rofi wezterm nitrogen dunst
+bspwm sxhkd picom polybar rofi wezterm nitrogen dunst
 powerkit blueman lxsession pavucontrol lxappearance pcmanfm telegram-desktop firefox
 ```
