@@ -6,7 +6,7 @@
 |:--------:|:---------------------------------------------------------------:|
 | WM       | [bspwm](https://github.com/baskerville/bspwm)                   |
 | Bar      | [polybar](https://github.com/polybar/polybar)                   |
-| Terminal | [wezrerm](https://wezfurlong.org/wezterm/)                      |
+| Terminal | [alacritty](https://github.com/alacritty/alacritty)             |
 | Editor   | [vscodium](https://vscodium.com/)                               |
 | Shell    | [fish](https://fishshell.com/)                                  |
 | Theme    | [rose-pine](https://rosepinetheme.com/)                         |
@@ -22,6 +22,6 @@ pipewire wireplumber pipewire-audio pipewire-alsa pipewire-pulse
 rustup paru
 fish starship ranger vim
 fd ripgrep exa bat pfetch n
-bspwm sxhkd picom polybar rofi wezterm nitrogen dunst
+bspwm sxhkd picom polybar rofi alacritty nitrogen dunst
 powerkit blueman lxsession pavucontrol lxappearance pcmanfm telegram-desktop firefox
 ```
