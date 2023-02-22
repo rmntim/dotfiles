@@ -18,6 +18,7 @@ alias config "git --git-dir=$HOME/Development/dotfiles/ --work-tree=$HOME"
 
 # MISC ALIASES
 alias ip "ip -c"
+alias pypy pypy3
 
 ## ENV VARIABLES
 set -x MANPAGER "sh -c 'col -bx | bat -l man -p'"
@@ -28,4 +29,3 @@ pfetch
 
 ## STARSHIP
 starship init fish | source
-
