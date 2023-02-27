@@ -23,5 +23,5 @@ rustup paru
 fish starship ranger vim
 fd ripgrep exa bat pfetch n pypy
 bspwm sxhkd picom polybar rofi alacritty nitrogen dunst
-powerkit blueman lxsession pavucontrol lxappearance pcmanfm telegram-desktop firefox
+powerkit blueman polkit-kde-agent pavucontrol lxappearance pcmanfm telegram-desktop firefox
 ```

@@ -4,7 +4,7 @@ pgrep -x sxhkd >/dev/null || sxhkd &
 nitrogen --restore &
 dunst &
 powerkit &
-lxsession &
+/usr/lib/polkit-kde-authentication-agent-1 &
 picom &
 xrdb ~/.Xresources &
 sleep 1 &
